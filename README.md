@@ -5,10 +5,11 @@ A full java project developed with the goal to create a similar game like Donkey
 ## ℹ️ Main Features
 
 - It's a classic arcade game, where I (user) can control a character called Jump-Man inside a room with platforms and stairs
-- In that room there's Donkey Kong, a villain which movement is independent from Jump-Man's movement, throwing several atacks our character
+- In that room there's Donkey Kong, a villain which movement is independent from Jump-Man's movement, throwing several atacks to our character
 - Basically, the main goal is to move Jump-Man along three levels (three diferent rooms) to rescue the princess
 - The layout of the rooms will have a highest score of difficulty as Jump-Man will pass to another level
-- When the princess is rescued, a table appears to registe the score in that play (how much time we take to save the princess)
+- When the princess is rescued, a message appears to registe the name of the player in that play
+- If the file was not created in the beginning, after the first play, will be created a highscores.txt automatically, with all the plays and how much time the player took to rescue the princess
 
 ## ✅ Prerequisites
 
