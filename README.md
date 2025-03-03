@@ -30,4 +30,4 @@ A full java project developed with the goal to create a similar game like Donkey
    - Proper use of data structures
    - Throwing and dealing with Exceptions
    - Use of scanner and PrintWriter to read and write in files
-   - All of this with the same purpose, clearifyied and organized code structure
+   - All of this with the same purpose, clear and organized code structure
